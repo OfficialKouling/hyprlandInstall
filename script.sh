@@ -1,7 +1,8 @@
 #!/bin/bash
-cp -r config ~/.config 
+cp -r ./config ~/.config 
+cp -r ./wallpapers ~/
 cp zshrc ~/.zshrc 
-sudo cp -r ~ /root 
+sudo cp -r ~/ /root 
 sudo pacman -Sy hyprland hyprpaper linux-firmware waybar sddm qt5-quickcontrols2 qt5-graphicaleffects qt5-svg
 sudo pacman -Sy zsh thefuck
 (sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)")
