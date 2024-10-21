@@ -4,7 +4,8 @@ cp -r ./wallpapers ~/
 cp zshrc ~/.zshrc 
 sudo cp -r ~/ /root 
 sudo pacman -Sy hyprland hyprpaper linux-firmware waybar sddm qt5-quickcontrols2 qt5-graphicaleffects qt5-svg
-sudo pacman -Sy zsh thefuck python-pywal
+sudo pacman -Sy zsh ttf-jetbrains-mono-nerd thefuck python-pywal rofi
+sudo cp -r ./rofi/themes/* /usr/share/rofi/themes/
 (sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)")
 (git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions)
 yay -Sy paru python-pywalfox
