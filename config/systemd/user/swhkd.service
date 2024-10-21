@@ -1,0 +1,11 @@
+[Unit]
+Description=Run SWHKD and SWHKS at startup
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/pkexec swhkd -c /home/kouling/.config/sxhkd/sxhkdrc
+ExecStartPost=/usr/bin/swhks
+Restart=on-failure
+
+[Install]
+WantedBy=default.target
