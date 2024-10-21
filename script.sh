@@ -2,6 +2,7 @@
 cp -r ./config ~/.config 
 cp -r ./wallpapers ~/
 cp zshrc ~/.zshrc 
+grep -rl "kouling" ~/ | xargs sed -i "s/kouling/${USERNAME}/g"
 sudo cp -r ~/ /root 
 sudo pacman -Sy hyprland hyprpaper linux-firmware waybar sddm qt5-quickcontrols2 qt5-graphicaleffects qt5-svg
 sudo pacman -Sy zsh ttf-jetbrains-mono-nerd thefuck python-pywal rofi
