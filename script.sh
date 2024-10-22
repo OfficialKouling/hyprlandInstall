@@ -8,6 +8,7 @@ sudo pacman -Sy hyprland hyprpaper linux-firmware waybar sddm qt5-quickcontrols2
 sudo pacman -Sy zsh ttf-jetbrains-mono-nerd thefuck python-pywal pulseaudio pulsemixer python curl wget ranger --noconfirm
 sudo pacman -Sy cmake lebev lsd bat fontconfig rofi gum firefox python-uberzug grim swappy slurp --noconfirm
 sudo pacman -Sy neovim qt5-quickcontrols qt5-base playerctl git  --noconfirm
+sudo pacman -Sy xf86-input-libinput xorg xorg-xinit --noconfirm
 sudo su << EOF
 sed -i "s/twm/#twm/" /etc/X11/xinit/xinitrc
 sed -i "s/xclock/#xclock/" /etc/X11/xinit/xinitrc
