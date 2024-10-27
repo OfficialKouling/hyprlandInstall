@@ -13,3 +13,7 @@ ctrl + F2
 
 ctrl + F3
   pactl set-sink-volume 1 +3%
+
+# hibernate
+super + shift + a 
+  ~/.config/hibernate_with_lock.sh

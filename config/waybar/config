@@ -127,10 +127,10 @@
     },
     "custom/updater":{
         "format": "{} Updates",
-        "exec": "paru -Qu | wc -l",
-        "exec-if": "[[ $(paru -Qu | wc -l) != 0 ]]",
+        "exec": "sudo pacman -Qu | wc -l",
+        "exec-if": "[[ $(sudo pacman -Qu | wc -l) != 0 ]]",
         "interval": 15,
-        "on-click": "wezterm start -- fish -c paru"
+        "on-click": "kitty zsh -c \"sudo pacman -Syu; sleep 2; exit\""
     },
     "custom/weather": {
         "format": "{}",

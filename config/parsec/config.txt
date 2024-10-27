@@ -1,0 +1,5 @@
+bandwidth = 500000  # (or set higher, e.g., 100000 for 100 Mbps)
+h265 = 100
+fps = 150
+resolution_x = 1920
+resolution_y = 1080

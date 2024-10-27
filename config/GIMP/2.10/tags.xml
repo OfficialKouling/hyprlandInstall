@@ -3019,6 +3019,30 @@
   <resource identifier="IosevkaTerm Nerd Font Ultra-Light Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="JetBrains Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Medium Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="JetBrainsMono Nerd Font" checksum="(null)">
   </resource>
 
@@ -3163,6 +3187,30 @@
   <resource identifier="JetBrainsMono Nerd Font Ultra-Light Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="JetBrains Mono NL" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Medium Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="JetBrainsMonoNL Nerd Font" checksum="(null)">
   </resource>
 
@@ -3305,6 +3353,54 @@
   </resource>
 
   <resource identifier="JetBrainsMonoNL Nerd Font Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono NL Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="JetBrains Mono Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Lekton Nerd Font" checksum="(null)">
@@ -4094,6 +4190,9 @@
   </resource>
 
   <resource identifier="Monospace Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="mtx" checksum="(null)">
   </resource>
 
   <resource identifier="NotoMono Nerd Font" checksum="(null)">
@@ -5527,6 +5626,54 @@
   <resource identifier="ProggyCleanSZ Nerd Font Propo" checksum="(null)">
   </resource>
 
+  <resource identifier="Roboto" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed," checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Condensed, Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto Medium Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="RobotoMono Nerd Font" checksum="(null)">
   </resource>
 
@@ -5633,6 +5780,12 @@
   </resource>
 
   <resource identifier="RobotoMono Nerd Font weight=250 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto weight=250" checksum="(null)">
+  </resource>
+
+  <resource identifier="Roboto weight=250 Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Sans-serif" checksum="(null)">
@@ -5984,6 +6137,18 @@
   </resource>
 
   <resource identifier="Tinos Nerd Font Propo Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Ubuntu Mono Italic" checksum="(null)">
   </resource>
 
   <resource identifier="UbuntuMono Nerd Font" checksum="(null)">
